@@ -1,0 +1,10 @@
+server:
+  port: 8189
+  servlet:
+    context-path: /app
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3308/mysql
+    username: root
+    password: G12l2ch9t3
